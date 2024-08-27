@@ -21,19 +21,17 @@ pushed.
 
 ### MainActivity
 
-![MainActivity Screenshot](images/mainlist.jpg)
+![MainActivity Screenshot](images/imagelist.jpg)
 
 
 ### BeneficiaryDetailActivity
 
-![BeneficiaryDetailActivity Screenshot](images/image1.jpg)
-
 ![BeneficiaryDetailActivity Screenshot](images/image2.jpg)
 
-![BeneficiaryDetailActivity Screenshot](images/image3.png)
+![BeneficiaryDetailActivity Screenshot](images/image3.jpg)
 
-![BeneficiaryDetailActivity Screenshot](images/image4.png)
+![BeneficiaryDetailActivity Screenshot](images/image4.jpg)
 
-![BeneficiaryDetailActivity Screenshot](images/image5.png)
+![BeneficiaryDetailActivity Screenshot](images/image5.jpg)
 
 
