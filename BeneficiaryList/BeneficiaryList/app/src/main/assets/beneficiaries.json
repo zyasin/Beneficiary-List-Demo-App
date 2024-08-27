@@ -1,0 +1,95 @@
+[
+  {
+    "lastName": "Paul",
+    "firstName": "Davis",
+    "designationCode": "P",
+    "beneType": "Spouse",
+    "socialSecurityNumber": "XXXXX1111",
+    "dateOfBirth": "05211970",
+    "middleName": "A",
+    "phoneNumber": "111111111",
+    "beneficiaryAddress": {
+      "firstLineMailing": "7200 W Rd",
+      "scndLineMailing": null,
+      "city": "ABC City",
+      "zipCode": "96000",
+      "stateCode": "CA",
+      "country": "US"
+    }
+  },
+  {
+    "lastName": "Paul",
+    "firstName": "Anna",
+    "designationCode": "C",
+    "beneType": "Child",
+    "socialSecurityNumber": "XXXXX2222",
+    "dateOfBirth": "03131994",
+    "middleName": "B",
+    "phoneNumber": "222222222",
+    "beneficiaryAddress": {
+      "firstLineMailing": "7200 W Rd",
+      "scndLineMailing": null,
+      "city": "ABC City",
+      "zipCode": "96000",
+      "stateCode": "CA",
+      "country": "US"
+    }
+  },
+  {
+    "lastName": "Paul",
+    "firstName": "Smith",
+    "designationCode": "C",
+    "beneType": "Child",
+    "socialSecurityNumber": "XXXXX3333",
+    "dateOfBirth": "03131996",
+    "middleName": "C",
+    "phoneNumber": "333333333",
+    "beneficiaryAddress": {
+      "firstLineMailing": "7200 W Rd",
+      "scndLineMailing": null,
+      "city": "ABC City",
+      "zipCode": "96000",
+      "stateCode": "CA",
+      "country": "US"
+    }
+  },
+  {
+    "lastName": "Paul",
+    "firstName": "Heather",
+    "designationCode": "C",
+    "beneType": "Child",
+    "socialSecurityNumber": "XXXXX4444",
+    "dateOfBirth": "07051999",
+    "middleName": "D",
+    "phoneNumber": "444444444",
+    "beneficiaryAddress": {
+      "firstLineMailing": "7200 W Rd",
+      "scndLineMailing": null,
+      "city": "ABC City",
+      "zipCode": "96000",
+      "stateCode": "CA",
+      "country": "US"
+    }
+  },
+  {
+    "lastName": "Paul",
+    "firstName": "John ",
+    "designationCode": "C",
+    "beneType": "Child",
+    "socialSecurityNumber": "XXXXX5555",
+    "dateOfBirth": "12142003",
+    "middleName": "E",
+    "phoneNumber": "555555555",
+    "beneficiaryAddress": {
+      "firstLineMailing": "7200 W Rd",
+      "scndLineMailing": null,
+      "city": "ABC City",
+      "zipCode": "96000",
+      "stateCode": "CA",
+      "country": "US"
+    }
+  }
+]
+
+
+
